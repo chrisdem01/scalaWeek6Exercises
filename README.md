@@ -1,0 +1,1 @@
+# scalaWeek6Exercises
